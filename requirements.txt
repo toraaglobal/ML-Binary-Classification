@@ -1,0 +1,6 @@
+pandas==1.5.1
+sklearn==0.0
+streamlit==1.13.0
+watchdog==2.1.9
+scikit-learn==1.1.2
+matplotlib==3.6.1
